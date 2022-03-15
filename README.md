@@ -19,16 +19,28 @@ Hackathon at the Stadsbibliothek Uppsala.
 
 :construction: to be translated
 
+Finally the time has come to show that you are a little genious!
+At this hackathon you'll compete with a team to develop the coolest
+game from scratch in only four hours! 
+To make it even harder, some team members cannot even code, so be
+ready to teach them! Or: if you cannot code yet, no worries, but
+you'd better learn fast!
+There is a price, eternal glory and -more important-
+there will be pizza! 
+
 ## Text for contestants
 
  * Your purpose is to learn how to do awesome things quickly
  * Bring your own laptop if possible. Else let us know: we have 9 (7 at SB, 2 at UMS)
+ * The team is around 4 persons
+ * No coding skills needed: just learn fast :-)
 
 ## Text for coaches
 
  * Your purpose is to help the team work together
  * You are not allowed to touch a keyboard
  * Contestants are the boss
+ * A team is around 4 persons
 
 ## Schedule
 
@@ -71,3 +83,8 @@ SB         | Order the pizza, take the delivery to
 R          | Ask MachineGaming for volunteers/coaches
 R          | Ask UMS for volunteers/coaches
 
+## Abbreviations
+
+ * R: Richel
+ * SB: Stadsbibliotek
+ * UMS: Uppsala Makerspace
