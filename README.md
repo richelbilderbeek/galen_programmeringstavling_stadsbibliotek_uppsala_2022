@@ -72,19 +72,21 @@ When       |What                                   |Where?
 
 Responsible|What
 -----------|-----------------------------------------------
-SB         | Projection screen at Studium
-SB         | Projection screen at Fancy Room
-R + SB     | Competitors
-R          | Volunteers to assist the competitors
+SB         | Projection screen at Studium works
+SB         | Projection screen and mic works at Fancy Room
+R          | [wait until first reply from SB] Do publicity to get competitors
+SB         | Do publicity to get competitors
+R          | [WIP] Get volunteers to assist the competitors
 SB         | 1 host for questions as drinks, food, etc
 SB         | Water, cups, 1 bottle of saft and cola and fanta and 7-up
 ?SB        | Club Mate, which is a typical hackathon drink
 SB         | Order the pizza, take the delivery to 
-R          | Ask MachineGaming for volunteers/coaches
-R          | Ask UMS for volunteers/coaches
+R          | [sent email] Ask MachineGaming for volunteers/coaches 
+R          | [wait until first reply from SB] Ask UMS for volunteers/coaches 
 
 ## Abbreviations
 
  * R: Richel
  * SB: Stadsbibliotek
  * UMS: Uppsala Makerspace
+ * WIP: Work In Progress
