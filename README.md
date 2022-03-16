@@ -1,4 +1,6 @@
-# hackathon_stadsbibliotek_uppsala_2022
+# Galen programmeringstävling
+
+Ingen kunskap krävs!
 
 :construction: This page is in English for now
 
@@ -19,20 +21,23 @@ Hackathon at the Stadsbibliothek Uppsala.
 
 :construction: to be translated
 
-Finally the time has come to show that you are a little genious!
-At this hackathon you'll compete with a team to develop the coolest
-game from scratch in only four hours! 
-To make it even harder, some team members cannot even code, so be
-ready to teach them! Or: if you cannot code yet, no worries, but
-you'd better learn fast!
-There is a price, eternal glory and -more important-
-there will be pizza! 
+Galen programmeringstävling
+
+Ingen kunskap krävs!
+
+Programmering kan inte vara så svårt!
+För att prova det, finns här en programmeringstävling, ingen kunskap krävs!
+Lyckligtvis är du hemligt en geni, så att lära nya saker är ingen problem alls.
+Du och din team ska ha fyra timmar för att skapa en game från ingenting.
+Dett finns en pris, evig ära och -endå vigtigare- pizza!
 
 ## Text for contestants
 
  * Your purpose is to learn how to do awesome things quickly
  * Bring your own laptop if possible. Else let us know: we have 9 (7 at SB, 2 at UMS)
  * The team is around 4 persons
+ * You will be mixed with other contestants, to assure all teams contain
+   experienced and inexperienced programmers
  * No coding skills needed: just learn fast :-)
 
 ## Text for coaches
