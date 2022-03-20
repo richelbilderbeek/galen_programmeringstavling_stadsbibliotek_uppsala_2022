@@ -95,3 +95,7 @@ R          | [wait until first reply from SB] Ask UMS for volunteers/coaches
  * SB: Stadsbibliotek
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
+
+## Links
+
+ * Where I created the logo: [https://fontmeme.com/minecraft-font/](https://fontmeme.com/minecraft-font/)
