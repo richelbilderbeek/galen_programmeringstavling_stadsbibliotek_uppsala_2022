@@ -1,5 +1,9 @@
 # Galen programmeringstävling
 
+![](logo.png)
+
+![](subtitle.png)
+
 Ingen kunskap krävs!
 
 :construction: This page is in English for now
