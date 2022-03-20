@@ -2,9 +2,11 @@
 
 ![](flyer.png)
 
-:construction: This page is in English for now
-
-:construction: These are all suggestions for now
+Programmering kan inte vara så svårt!
+För att prova det, finns här en programmeringstävling, ingen kunskap krävs!
+Lyckligtvis är du hemligt en geni, så att lära nya saker är ingen problem alls.
+Du och din team ska ha fyra timmar för att skapa en game från ingenting.
+Dett finns en pris, evig ära och -endå vigtigare- pizza!
 
 Hackathon at the Stadsbibliothek Uppsala.
 
@@ -16,28 +18,11 @@ Hackathon at the Stadsbibliothek Uppsala.
    Svartbäcksgatan 17, 753 75 Uppsala
  * Kostad: gratis
 
- * What: Programming competition: make a game in a team
- * When: Saturday May 7th 2022 11:00-16:00
- * Where: Stadsbibliothek Uppsala, Svartbäcksgatan 17, 753 75 Uppsala
- * Costs: ?10 euro, ?free [DISCUSS]
- * Goal: doing something cool for young adolescents at the Stadsbibliothek
- * Max competitors: 20 ?more is always possible [DISCUSS]
- * Competitors pers team: 4
- * Price: ?5 euro times the number of competitors, ?library price, ?Makerspace price [DISCUSS]
+# Details
 
-## Publicity text
+:construction: This page is in English for now
 
-:construction: to be translated
-
-Galen programmeringstävling
-
-Ingen kunskap krävs!
-
-Programmering kan inte vara så svårt!
-För att prova det, finns här en programmeringstävling, ingen kunskap krävs!
-Lyckligtvis är du hemligt en geni, så att lära nya saker är ingen problem alls.
-Du och din team ska ha fyra timmar för att skapa en game från ingenting.
-Dett finns en pris, evig ära och -endå vigtigare- pizza!
+:construction: These are all suggestions for now
 
 ## Text for contestants
 
@@ -103,6 +88,13 @@ R          | [wait until first reply from SB] Ask UMS for volunteers/coaches
  * SB: Stadsbibliotek
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
+
+## Details
+
+ * Costs: ?free [DISCUSS]
+ * Max competitors: ?infinite
+ * Competitors pers team: ?4
+ * Price: ?5 euro times the number of competitors, ?library price, ?Makerspace price [DISCUSS]
 
 ## Links
 
