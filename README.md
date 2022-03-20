@@ -13,10 +13,10 @@ Hackathon at the Stadsbibliothek Uppsala.
  * Vad: programmeringstävling
    skapa ett datorspel i ett lag
  * Vem: ungdomar 8-18 år
- * När: lördag Maj 7 11:00-16:00
- * Var: Stadsbibliothek Uppsala, 
+ * När: lördag maj 7 11:00-16:00
+ * Var: Stadsbibliotek Uppsala, 
    Svartbäcksgatan 17, 753 75 Uppsala
- * Kostad: gratis
+ * Kostnad: gratis
 
 # Details
 
