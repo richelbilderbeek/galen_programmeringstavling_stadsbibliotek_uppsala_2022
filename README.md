@@ -1,10 +1,6 @@
 # Galen programmeringstävling
 
-![](logo.png)
-
-![](subtitle.png)
-
-Ingen kunskap krävs!
+![](flyer.png)
 
 :construction: This page is in English for now
 
@@ -12,13 +8,21 @@ Ingen kunskap krävs!
 
 Hackathon at the Stadsbibliothek Uppsala.
 
- * What: Hackathon, with goal to make something cool in a team and present it
+ * Vad: programmeringstävling
+   skapa en datorspel i ett lag
+ * Vem: ungdomer 8-18 år
+ * När: lördag Maj 7 11:00-16:00
+ * Var: Stadsbibliothek Uppsala, 
+   Svartbäcksgatan 17, 753 75 Uppsala
+ * Kostad: gratis
+
+ * What: Programming competition: make a game in a team
  * When: Saturday May 7th 2022 11:00-16:00
  * Where: Stadsbibliothek Uppsala, Svartbäcksgatan 17, 753 75 Uppsala
+ * Costs: ?10 euro, ?free [DISCUSS]
  * Goal: doing something cool for young adolescents at the Stadsbibliothek
  * Max competitors: 20 ?more is always possible [DISCUSS]
  * Competitors pers team: 4
- * Costs: ?10 euro, ?free [DISCUSS]
  * Price: ?5 euro times the number of competitors, ?library price, ?Makerspace price [DISCUSS]
 
 ## Publicity text
