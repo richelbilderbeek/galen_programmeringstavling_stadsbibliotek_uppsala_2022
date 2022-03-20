@@ -11,8 +11,8 @@ Dett finns en pris, evig ära och -endå vigtigare- pizza!
 Hackathon at the Stadsbibliothek Uppsala.
 
  * Vad: programmeringstävling
-   skapa en datorspel i ett lag
- * Vem: ungdomer 8-18 år
+   skapa ett datorspel i ett lag
+ * Vem: ungdomar 8-18 år
  * När: lördag Maj 7 11:00-16:00
  * Var: Stadsbibliothek Uppsala, 
    Svartbäcksgatan 17, 753 75 Uppsala
