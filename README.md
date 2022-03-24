@@ -1,14 +1,10 @@
-# Galen programmeringstävling
+# Programmeringstävling
 
 ![](flyer.png)
 
-Programmering kan inte vara så svårt!
-För att prova det, finns här en programmeringstävling, ingen kunskap krävs!
-Lyckligtvis är du hemligt en geni, så att lära nya saker är ingen problem alls.
-Du och din team ska ha fyra timmar för att skapa en game från ingenting.
-Dett finns en pris, evig ära och -endå vigtigare- pizza!
+Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringstävling där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt? Kanske är du ett hemligt geni, kom och testa dina skills! Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och -ännu viktigare- pizza! Ingen föranmälan krävs, men tillgång till egen dator.
 
-Hackathon at the Stadsbibliothek Uppsala.
+Programmeringstävling hos Stadsbibliotheket Uppsala.
 
  * Vad: programmeringstävling
    skapa ett datorspel i ett lag
