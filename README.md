@@ -1,7 +1,7 @@
-# Programmeringstävling
+# Programmeringsdag
 
 ![](flyer.png)
-
+	
 Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringstävling där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt? Kanske är du ett hemligt geni, kom och testa dina skills! Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och -ännu viktigare- pizza! Ingen föranmälan krävs, men tillgång till egen dator.
 
 Programmeringstävling hos Stadsbibliotheket Uppsala.
@@ -45,8 +45,8 @@ When       |What                                   |Where?
 11:20-13:00|Work                                   |Studium + rooms
 13:00-13:30|Pizza                                  |Studium + rooms
 13:30-15:00|Work                                   |Studium + rooms
-15:00-15:30|Presentations                          |Fancy room
-15:30-15:35|Winner and closing                     |Fancy room
+15:00-15:30|Presentations                          |Studium + rooms
+15:30-15:35|Winner and closing                     |Studium + rooms
 15:45-16:00|Time to go                             |Studium + rooms
 
 ## Extended schedule
@@ -58,25 +58,21 @@ When       |What                                   |Where?
 10:00-11:00|Prepare for contestants                |Studium + rooms
 12:45-13:00|Prepare for pizza                      |Studium + rooms
 13:15-13:45|Clean up from pizza                    |Studium + rooms
-13:45-14:15|Prepare for presentation               |Fancy room
-16:00-17:00|Clean up                               |Studium + rooms + fancy room
+13:45-14:15|Prepare for presentation               |Studium + rooms
+16:00-17:00|Clean up                               |Studium + rooms
 17:00-17:30|Evaluate                               |Any pub, e.g. Churchill Arms
 
 ## Needed
 
 Responsible|What
 -----------|-----------------------------------------------
+R          | Get volunteers to assist the competitors
+R          | Ask UMS for volunteers/coaches 
 SB         | Projection screen at Studium works
-SB         | Projection screen and mic works at Fancy Room
-R          | [wait until first reply from SB] Do publicity to get competitors
 SB         | Do publicity to get competitors
-R          | [WIP] Get volunteers to assist the competitors
 SB         | 1 host for questions as drinks, food, etc
 SB         | Water, cups, 1 bottle of saft and cola and fanta and 7-up
-?SB        | Club Mate, which is a typical hackathon drink
 SB         | Order the pizza, take the delivery to 
-R          | [sent email] Ask MachineGaming for volunteers/coaches 
-R          | [wait until first reply from SB] Ask UMS for volunteers/coaches 
 
 ## Abbreviations
 
@@ -84,13 +80,6 @@ R          | [wait until first reply from SB] Ask UMS for volunteers/coaches
  * SB: Stadsbibliotek
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
-
-## Details
-
- * Costs: ?free [DISCUSS]
- * Max competitors: ?infinite
- * Competitors pers team: ?4
- * Price: ?5 euro times the number of competitors, ?library price, ?Makerspace price [DISCUSS]
 
 ## Links
 
