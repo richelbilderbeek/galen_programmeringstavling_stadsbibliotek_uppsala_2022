@@ -2,9 +2,9 @@
 
 ![](flyer.png)
 	
-Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringstävling där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt? Kanske är du ett hemligt geni, kom och testa dina skills! Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och -ännu viktigare- pizza! Ingen föranmälan krävs, men tillgång till egen dator.
+Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringsdag där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt? Kanske är du ett hemligt geni, kom och testa dina skills! Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och -ännu viktigare- pizza! Ingen föranmälan krävs, men tillgång till egen dator.
 
-Programmeringstävling hos Stadsbibliotheket Uppsala.
+Programmeringsdag hos Stadsbibliotheket Uppsala.
 
  * Vad: programmeringstävling
    skapa ett datorspel i ett lag
@@ -68,16 +68,16 @@ Responsible|What
 -----------|-----------------------------------------------
 R          | Get volunteers to assist the competitors
 R          | Ask UMS for volunteers/coaches 
-SB         | Projection screen at Studium works
-SB         | Do publicity to get competitors
-SB         | 1 host for questions as drinks, food, etc
-SB         | Water, cups, 1 bottle of saft and cola and fanta and 7-up
-SB         | Order the pizza, take the delivery to 
+USB        | Projection screen at Studium works
+USB        | Do publicity to get competitors
+USB        | 1 host for questions as drinks, food, etc
+USB        | Water, cups, 1 bottle of saft and cola and fanta and 7-up
+USB        | Order the pizza, take the delivery to 
 
 ## Abbreviations
 
  * R: Richel
- * SB: Stadsbibliotek
+ * USB: Uppsala Stadsbibliotek
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
 
