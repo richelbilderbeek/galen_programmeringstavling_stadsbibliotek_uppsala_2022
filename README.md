@@ -1,10 +1,13 @@
 # Programmeringsdag
 
-![](flyer.png)
-	
-Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringsdag där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt? Kanske är du ett hemligt geni, kom och testa dina skills! Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och -ännu viktigare- pizza! Ingen föranmälan krävs, men tillgång till egen dator.
+![](flyer_ums.png)
 
-Programmeringsdag hos Stadsbibliotheket Uppsala.
+Är du nyfiken på programmering? Vi har en galen utmaning till dig! En programmeringstävling
+där du och ditt team har fyra timmar på er att skapa ett spel från grunden. Låter det svårt?
+Kanske är du ett hemligt geni, kom och testa dina skills!
+Vi lär ut allt du behöver veta på plats och såklart finns det ett pris till vinnande lag, evig ära och
+– ännu viktigare – pizza! För dig som är 10–18 år.
+Ta med egen dator eller låna på plats. Föranmälan till 073-597 15 50 eller christina.kruzenhof@uppsala.se.
 
  * Vad: programmeringstävling
    skapa ett datorspel i ett lag
@@ -81,6 +84,3 @@ USB        | Order the pizza, take the delivery to
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
 
-## Links
-
- * Where I created the logo: [https://fontmeme.com/minecraft-font/](https://fontmeme.com/minecraft-font/)
