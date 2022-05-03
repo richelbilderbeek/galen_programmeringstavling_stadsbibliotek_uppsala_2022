@@ -69,11 +69,11 @@ When       |What                                   |Where?
 
 Responsible|What
 -----------|-----------------------------------------------
-R          | Get volunteers to assist the competitors
-R          | Ask UMS for volunteers/coaches 
+R          | [x] Get volunteers to assist the competitors
+R          | [x] Ask UMS for volunteers/coaches 
 USB        | Projection screen at Studium works
-USB        | Do publicity to get competitors
-USB        | 1 host for questions as drinks, food, etc
+USB        | [x] Do publicity to get competitors
+USB        | [x] 1 host for questions as drinks, food, etc
 USB        | Water, cups, 1 bottle of saft and cola and fanta and 7-up
 USB        | Order the pizza, take the delivery to 
 
@@ -84,3 +84,6 @@ USB        | Order the pizza, take the delivery to
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
 
+## Links
+
+ * [Event at USB](https://bibliotekuppsala.se/web/arena/events#/events/f596144f-315f-4813-8e7d-adcd7e7bdbd8)
