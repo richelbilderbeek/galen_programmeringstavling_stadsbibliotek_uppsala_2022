@@ -56,21 +56,50 @@ When       |What                                   |Where?
 
 That is, for volunteers
 
-When       |What                                   |Where?
------------|---------------------------------------|----------------------------
-10:00-11:00|Prepare for contestants                |Studium + rooms
-12:45-13:00|Prepare for pizza                      |Studium + rooms
-13:15-13:45|Clean up from pizza                    |Studium + rooms
-13:45-14:15|Prepare for presentation               |Studium + rooms
-16:00-17:00|Clean up                               |Studium + rooms
-17:00-17:30|Evaluate                               |Any pub, e.g. Churchill Arms
+When       |Competitors         |UBS                    |UMS
+-----------|--------------------|-----------------------|-----------------------
+10:00-10:15|.                   |Prepare for contestants|Prepare for contestants
+10:15-10:30|.                   |Prepare for contestants|Prepare for contestants
+10:30-10:45|.                   |Prepare for contestants|Prepare for contestants
+10:45-11:00|Come in and wait    |Host                   |Host
+11:00-11:15|Listen              |.                      |Talk
+11:15-11:30|Form teams          |.                      |Coach
+11:30-11:45|Program             |Inventorize pizza      |Coach
+11:45-12:00|Program             |Inventorize pizza      |Coach
+12:00-12:15|Program             |Order pizza            |Coach
+12:15-12:30|Program             |.                      |Coach
+12:30-12:45|Program             |.                      |Coach
+12:45-13:00|Program             |Prepare for pizza      |Coach
+13:00-13:00|Eat pizza           |.                      |.
+13:15-13:30|Eat pizza           |.                      |.
+13:30-13:45|Program             |Clean up from pizza    |Coach
+13:45-14:00|Program             |.                      |Coach
+14:00-14:15|Program             |.                      |Coach
+14:15-14:30|Program             |.                      |Coach
+14:30-14:45|Program             |.                      |Coach
+14:45-15:00|Try-out presentation|.                      |Technical assist
+14:45-15:00|Program             |.                      |Coach
+15:00-15:15|Try-out presentation|.                      |Technical assist
+15:00-15:15|Program             |.                      |Coach
+15:15-15:30|Try-out presentation|.                      |Technical assist
+15:15-15:30|Program             |.                      |Coach
+15:30-15:45|Try-out presentation|.                      |Technical assist
+15:30-15:45|Program             |.                      |Coach
+15:45-16:00|Present             |.                      |Listen
+16:00-16:15|Leave               |Host                   |Host
+16:15-17:00|.                   |Clean up               |Clean up
+17:00-17:30|.                   |Evaluate               |Evaluate
 
 ## Detailed schedule
 
 That is, for Richel
 
-
-
+Discuss
+ * What are we going to do?
+ * Why is this important?
+Find group leaders + programming language
+Form teams
+Programming
 
 ## Needed
 
