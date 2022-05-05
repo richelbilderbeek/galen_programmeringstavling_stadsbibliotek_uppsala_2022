@@ -65,6 +65,13 @@ When       |What                                   |Where?
 16:00-17:00|Clean up                               |Studium + rooms
 17:00-17:30|Evaluate                               |Any pub, e.g. Churchill Arms
 
+## Detailed schedule
+
+That is, for Richel
+
+
+
+
 ## Needed
 
 Responsible|What
