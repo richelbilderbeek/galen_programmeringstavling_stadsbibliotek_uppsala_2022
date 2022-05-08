@@ -120,6 +120,39 @@ USB        | Order the pizza, take the delivery to
  * UMS: Uppsala Makerspace
  * WIP: Work In Progress
 
+## Evaluation
+
+There were 19 participants, 7 of which from UMS.
+
+![](programmeringsdag_usb_2022.jpg)
+
+What we observed:
+
+ * The day went smoothly, with enough volunteers being present
+   and good enough presentation
+ * At that day, the UMS participants were not experienced enough
+   to really work together: code was copied using Discord or
+   USB stick. Next time, the UMS participants will be better versed.
+ * As the UMS participants were not well versed in working together yet,
+   not all team members could contribute. On the other hand, all
+   participants could do things fitting a Programming Day.
+ * At the start of the day, the parents were told that there would
+   be a presentation at 15:30. Although this idea popped up late,
+   many parents should up anyways
+ * It could be argued that 150 kroners per participant (i.e. the pizza and
+   drinks) is quite expensive. 
+ * Unexpectedly, participants could take a free book from the library.
+   This opportunity was used by some participants, especially the older ones
+ * There was a group of two 10-year-old and three 15-year-old. 
+   This age difference gap was no problems, as both age groups respected one
+   another
+
+What could be improved:
+
+ * We should use a bigger room, so all participants can join:
+   we had to say 'no' to some, as it was full
+ * Have better flyers for the UMS courses
+
 ## Links
 
  * [Event at USB](https://bibliotekuppsala.se/web/arena/events#/events/f596144f-315f-4813-8e7d-adcd7e7bdbd8)
