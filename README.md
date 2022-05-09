@@ -17,12 +17,6 @@ Ta med egen dator eller låna på plats. Föranmälan till 073-597 15 50 eller c
    Svartbäcksgatan 17, 753 75 Uppsala
  * Kostnad: gratis
 
-# Details
-
-:construction: This page is in English for now
-
-:construction: These are all suggestions for now
-
 ## Text for contestants
 
  * Your purpose is to learn how to do awesome things quickly
@@ -61,9 +55,10 @@ When       |Competitors         |UBS                    |UMS
 10:00-10:15|.                   |Prepare for contestants|Prepare for contestants
 10:15-10:30|.                   |Prepare for contestants|Prepare for contestants
 10:30-10:45|.                   |Prepare for contestants|Prepare for contestants
-10:45-11:00|Come in and wait    |Host                   |Host
-11:00-11:15|Listen              |.                      |Talk
-11:15-11:30|Form teams          |.                      |Coach
+10:45-11:00|.                   |Prepare for contestants|Prepare for contestants
+11:00-11:10|Come in and wait    |Host                   |Host
+11:10-11:20|Listen              |.                      |Talk
+11:20-11:30|Form teams          |.                      |Coach
 11:30-11:45|Program             |Inventorize pizza      |Coach
 11:45-12:00|Program             |Inventorize pizza      |Coach
 12:00-12:15|Program             |Order pizza            |Coach
@@ -84,32 +79,21 @@ When       |Competitors         |UBS                    |UMS
 15:15-15:30|Try-out presentation|.                      |Technical assist
 15:15-15:30|Program             |.                      |Coach
 15:30-15:45|Try-out presentation|.                      |Technical assist
-15:30-15:45|Program             |.                      |Coach
+15:30-15:45|Present             |.                      |Listen
 15:45-16:00|Present             |.                      |Listen
 16:00-16:15|Leave               |Host                   |Host
 16:15-17:00|.                   |Clean up               |Clean up
 17:00-17:30|.                   |Evaluate               |Evaluate
 
-## Detailed schedule
-
-That is, for Richel
-
-Discuss
- * What are we going to do?
- * Why is this important?
-Find group leaders + programming language
-Form teams
-Programming
-
-## Needed
+## Done
 
 Responsible|What
 -----------|-----------------------------------------------
-R          | [x] Get volunteers to assist the competitors
-R          | [x] Ask UMS for volunteers/coaches 
+R          | Get volunteers to assist the competitors
+R          | Ask UMS for volunteers/coaches 
 USB        | Projection screen at Studium works
-USB        | [x] Do publicity to get competitors
-USB        | [x] 1 host for questions as drinks, food, etc
+USB        | Do publicity to get competitors
+USB        | 1 host for questions as drinks, food, etc
 USB        | Water, cups, 1 bottle of saft and cola and fanta and 7-up
 USB        | Order the pizza, take the delivery to 
 
@@ -146,12 +130,15 @@ What we observed:
  * There was a group of two 10-year-old and three 15-year-old. 
    This age difference gap was no problems, as both age groups respected one
    another
+ * Some kids found it cool to drink the most fizzy drinks
 
 What could be improved:
 
  * We should use a bigger room, so all participants can join:
    we had to say 'no' to some, as it was full
  * Have better flyers for the UMS courses
+ * Let the parents know beforehand there is a presentation
+ * Have a mechanism against the fizzy drinks competition
 
 ## Links
 
